@@ -1,0 +1,13 @@
+.header{
+    text-align: center;
+    background-color: lightblue;
+    color: grey;
+    text-decoration: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px white;
+}
+
+.todo{
+    /* put the styling for your todo posts here */
+
+}
