@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+label{
+    color:whitesmoke;
+}
+
+#cat-button{
+    position: absolute;
+    left: 50%;
+    top: 20px;
+}
+
+.spacer{
+    height:80px;
+}
+
+.gif{
+    margin: 10px;
+}
+
+.selector{
+    margin: 10px;
+}
